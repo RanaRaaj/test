@@ -3,7 +3,7 @@
         <x-auth-card>
             <x-slot name="logo">
                 <a href="/">
-                    <img src="images/logo_jgn.png">
+                    <!-- <img src="images/logo_jgn.png"> -->
                     {{--                <x-application-logo class="w-20 h-20 fill-current text-gray-500" />--}}
                 </a>
             </x-slot>
